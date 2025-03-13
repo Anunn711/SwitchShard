@@ -14,3 +14,4 @@ step 3 - If you wish to switch from the modded branch to vanilla run the script,
 step 4 - enter 'Y' or 'y' press enter and you will switch the version of the game.
 
 
+WARNING whatever is your native branch and the branch you currently active will be altered upon update.

@@ -1,5 +1,5 @@
 # SwitchShard
-This is a powershell script that allows the user to switch between the modded branch and vanilla branch for stoneshard.
+This is a powershell script that allows the user to switch between the modded branch and vanilla branch for stoneshard. This was just a personal project that satisfied a niche requirement of mine. 
 
 this script assumes your game is in "C:\Program Files (x86)\Steam\steamapps\common" - if not just find the path and edit it in the script.
 
